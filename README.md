@@ -15,7 +15,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/BrentM2005/MegaEmulator)](#)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBrentM2005%2FMegaEmulator&label=visitors&countColor=%230c7ebe&style=flat&labelStyle=none)
 [![Contributors](https://img.shields.io/github/contributors/BrentM2005/MegaEmulator?style=flat&color=FFD700&logo=github)](https://github.com/BrentM2005/MegaEmulator/graphs/contributors)
-[![Live Deployment](https://img.shields.io/badge/App-Download-brightgreen?style=flat)]([https://gourmet2go.vercel.app/](https://megaemulator.s3.us-east-2.amazonaws.com/MegaEmulator_Setup.exe/))
+[![Live Deployment](https://img.shields.io/badge/App-Download-brightgreen?style=flat)](https://megaemulator.s3.us-east-2.amazonaws.com/MegaEmulator_Setup.exe/)
 
 
 **We would appreciate it if you starred this repo and shared it on social media**
