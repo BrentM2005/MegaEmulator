@@ -123,7 +123,7 @@ will do the same.
 ## Getting Started <a name="getting-started"></a>
 
 
-To get started you'll need to download our installer <a href="https://megaemulator.s3.us-east-2.amazonaws.com/MegaEmulator_Setup.exe/">here</a>.  
+To get started you'll need to download our installer https://megaemulator.s3.us-east-2.amazonaws.com/MegaEmulator_Setup.exe/
 Then, go through the installation setup.
 
 
